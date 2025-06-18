@@ -88,5 +88,35 @@
     "owner": "Tnuva",
     "type": "israel_affiliated",
     "manufacture_location": "Israel"
-  }
+  },
+   "nestlé": {
+    "country": "Swiss",
+    "owner": "Nestlé S.A.",
+    "type": "israel_affiliated"
+  },
+  "coca-cola": {
+    "country": "USA",
+    "owner": "The Coca-Cola Company",
+    "type": "israel_affiliated"
+  },
+  "pepsico": {
+    "country": "USA",
+    "owner": "PepsiCo Inc.",
+    "type": "israel_affiliated"
+  },
+  "unilever": {
+    "country": "UK / Netherlands",
+    "owner": "Unilever PLC",
+    "type": "israel_affiliated"
+  },
+  "danone": {
+    "country": "France",
+    "owner": "Danone S.A.",
+    "type": "israel_affiliated"
+  },
+  "kraft heinz": {
+    "country": "USA",
+    "owner": "The Kraft Heinz Company",
+    "type": "israel_affiliated"
+  },
 }
