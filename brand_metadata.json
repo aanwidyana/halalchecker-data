@@ -1,0 +1,92 @@
+{
+  "sabra": {
+    "country": "Israel/USA",
+    "owner": "PepsiCo & Strauss Group",
+    "type": "israel_affiliated",
+    "manufacture_location": "Israel"
+  },
+  "osem": {
+    "country": "Israel",
+    "owner": "Nestlé (80%)",
+    "type": "israel_affiliated",
+    "manufacture_location": "Israel"
+  },
+  "strauss": {
+    "country": "Israel",
+    "owner": "Strauss Group Ltd",
+    "type": "israel_affiliated",
+    "manufacture_location": "Israel"
+  },
+  "tivall": {
+    "country": "Israel",
+    "owner": "Nestlé",
+    "type": "israel_affiliated",
+    "manufacture_location": "Israel"
+  },
+  "elite": {
+    "country": "Israel",
+    "owner": "Strauss Group",
+    "type": "israel_affiliated",
+    "manufacture_location": "Israel"
+  },
+  "beigel & beigel": {
+    "country": "Israel",
+    "owner": "Strauss Group",
+    "type": "israel_affiliated",
+    "manufacture_location": "Israel"
+  },
+  "jaffa": {
+    "country": "Israel",
+    "owner": "Mehadrin Tnuport",
+    "type": "israel_affiliated",
+    "manufacture_location": "Israel"
+  },
+  "tara dairy": {
+    "country": "Israel",
+    "owner": "Tnuva",
+    "type": "israel_affiliated",
+    "manufacture_location": "Israel"
+  },
+  "ahava": {
+    "country": "Israel",
+    "owner": "Fosun International",
+    "type": "israel_affiliated",
+    "manufacture_location": "Israel"
+  },
+  "sodastream": {
+    "country": "Israel",
+    "owner": "PepsiCo",
+    "type": "israel_affiliated",
+    "manufacture_location": "Israel"
+  },
+  "tnuva": {
+    "country": "Israel",
+    "owner": "Bright Food/Alibaba",
+    "type": "israel_affiliated",
+    "manufacture_location": "Israel"
+  },
+  "taamti": {
+    "country": "Israel",
+    "owner": "Osem-Nestlé",
+    "type": "israel_affiliated",
+    "manufacture_location": "Israel"
+  },
+  "mehadrin": {
+    "country": "Israel",
+    "owner": "Mehadrin Tnuport",
+    "type": "israel_affiliated",
+    "manufacture_location": "Israel"
+  },
+  "tara": {
+    "country": "Israel",
+    "owner": "Tnuva",
+    "type": "israel_affiliated",
+    "manufacture_location": "Israel"
+  },
+  "yotvata": {
+    "country": "Israel",
+    "owner": "Tnuva",
+    "type": "israel_affiliated",
+    "manufacture_location": "Israel"
+  }
+}
