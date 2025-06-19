@@ -1,0 +1,68 @@
+{
+  "fumaric_acid": {
+    "name": "Fumaric Acid (Asam Fumarat)",
+    "description": "Asam fumarat adalah pengatur keasaman dan antioksidan yang biasa digunakan dalam makanan dan minuman. Umumnya diproduksi secara sintetis atau dari fermentasi jamur, sehingga dianggap halal.",
+    "source": "https://halal.or.id",
+    "is_haram": false
+  },
+  "lactic_acid": {
+    "name": "Lactic Acid (Asam Laktat)",
+    "description": "Asam laktat adalah pengatur keasaman dan pengawet. Dapat berasal dari fermentasi karbohidrat (sumber nabati, halal) atau dari produk sampingan susu (juga umumnya halal). Namun, jika berasal dari media fermentasi yang tidak halal atau dari hewan yang tidak disembelih sesuai syariat, bisa menjadi syubhat atau haram.",
+    "source": "https://halal.or.id",
+    "is_haram": false
+  },
+  "citric_acid": {
+    "name": "Citric Acid (Asam Sitrat)",
+    "description": "Asam sitrat adalah pengatur keasaman alami yang banyak ditemukan pada buah-buahan sitrus. Umumnya diproduksi melalui fermentasi gula, sehingga dianggap halal.",
+    "source": "https://halal.or.id",
+    "is_haram": false
+  },
+  "sodium_citrate": {
+    "name": "Sodium Citrate (Natrium Sitrat)",
+    "description": "Natrium sitrat adalah garam natrium dari asam sitrat, berfungsi sebagai pengatur keasaman dan pengemulsi. Karena berasal dari asam sitrat yang umumnya halal, maka natrium sitrat juga dianggap halal.",
+    "source": "https://halal.or.id",
+    "is_haram": false
+  },
+  "calcium_lactate": {
+    "name": "Calcium Lactate (Kalsium Laktat)",
+    "description": "Kalsium laktat adalah garam kalsium dari asam laktat. Status kehalalannya bergantung pada sumber asam laktatnya. Jika asam laktat berasal dari sumber nabati atau susu halal, maka kalsium laktat juga halal.",
+    "source": "https://halal.or.id",
+    "is_haram": false
+  },
+  "sodium_lactate": {
+    "name": "Sodium Lactate (Natrium Laktat)",
+    "description": "Natrium laktat adalah garam natrium dari asam laktat. Status kehalalannya bergantung pada sumber asam laktatnya. Jika asam laktat berasal dari sumber nabati atau susu halal, maka natrium laktat juga halal.",
+    "source": "https://halal.or.id",
+    "is_haram": false
+  },
+  "e428": {
+    "name": "E428 (Gelatin)",
+    "description": "E428 adalah kode untuk Gelatin. Gelatin sering berasal dari tulang atau kulit hewan. Jika berasal dari hewan yang tidak disembelih secara halal (misalnya babi atau hewan lain yang tidak disembelih sesuai syariat), maka dianggap haram.",
+    "source": "https://halal.or.id",
+    "is_haram": true
+  },
+  "e297": {
+    "name": "E297 (Asam Fumarat)",
+    "description": "E297 adalah kode untuk Fumaric Acid (Asam Fumarat). Umumnya diproduksi secara sintetis atau dari fermentasi jamur, sehingga dianggap halal.",
+    "source": "https://ecode.figlab.io/check/E297.html",
+    "is_haram": false
+  },
+  "e270": {
+    "name": "E270 (Asam Laktat)",
+    "description": "E270 adalah kode untuk Lactic Acid (Asam Laktat). Dapat berasal dari fermentasi karbohidrat (halal) atau dari produk sampingan susu (halal). Namun, jika berasal dari media fermentasi yang tidak halal atau dari hewan yang tidak disembelih sesuai syariat, bisa menjadi syubhat atau haram.",
+    "source": "https://ecode.figlab.io/check/E270.html",
+    "is_haram": false
+  },
+  "e330": {
+    "name": "E330 (Asam Sitrat)",
+    "description": "E330 adalah kode untuk Citric Acid (Asam Sitrat). Umumnya diproduksi melalui fermentasi gula, sehingga dianggap halal.",
+    "source": "https://ecode.figlab.io/check/E330.html",
+    "is_haram": false
+  },
+  "e327": {
+    "name": "E327 (Kalsium Laktat)",
+    "description": "E327 adalah kode untuk Calcium Lactate (Kalsium Laktat). Status kehalalannya bergantung pada sumber asam laktatnya. Jika asam laktat berasal dari sumber nabati atau susu halal, maka kalsium laktat juga halal.",
+    "source": "https://ecode.figlab.io/check/E327.html",
+    "is_haram": false
+  }
+}
