@@ -1,17 +1,17 @@
 {
-  "fumaric_acid": {
+  "fumaric acid": {
     "name": "Fumaric Acid (Asam Fumarat)",
     "description": "Asam fumarat adalah pengatur keasaman dan antioksidan yang biasa digunakan dalam makanan dan minuman. Umumnya diproduksi secara sintetis atau dari fermentasi jamur, sehingga dianggap halal.",
     "source": "https://halal.or.id",
     "is_haram": false
   },
-  "lactic_acid": {
+  "lactic acid": {
     "name": "Lactic Acid (Asam Laktat)",
     "description": "Asam laktat adalah pengatur keasaman dan pengawet. Dapat berasal dari fermentasi karbohidrat (sumber nabati, halal) atau dari produk sampingan susu (juga umumnya halal). Namun, jika berasal dari media fermentasi yang tidak halal atau dari hewan yang tidak disembelih sesuai syariat, bisa menjadi syubhat atau haram.",
     "source": "https://halal.or.id",
     "is_haram": false
   },
-  "citric_acid": {
+  "citric acid": {
     "name": "Citric Acid (Asam Sitrat)",
     "description": "Asam sitrat adalah pengatur keasaman alami yang banyak ditemukan pada buah-buahan sitrus. Umumnya diproduksi melalui fermentasi gula, sehingga dianggap halal.",
     "source": "https://halal.or.id",
@@ -23,13 +23,13 @@
     "source": "https://halal.or.id",
     "is_haram": false
   },
-  "calcium_lactate": {
+  "calcium lactate": {
     "name": "Calcium Lactate (Kalsium Laktat)",
     "description": "Kalsium laktat adalah garam kalsium dari asam laktat. Status kehalalannya bergantung pada sumber asam laktatnya. Jika asam laktat berasal dari sumber nabati atau susu halal, maka kalsium laktat juga halal.",
     "source": "https://halal.or.id",
     "is_haram": false
   },
-  "sodium_lactate": {
+  "sodium lactate": {
     "name": "Sodium Lactate (Natrium Laktat)",
     "description": "Natrium laktat adalah garam natrium dari asam laktat. Status kehalalannya bergantung pada sumber asam laktatnya. Jika asam laktat berasal dari sumber nabati atau susu halal, maka natrium laktat juga halal.",
     "source": "https://halal.or.id",
